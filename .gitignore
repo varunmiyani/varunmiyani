@@ -8,5 +8,8 @@
 .vscode/
 .idea/
 
+# Personal
+todo/
+
 # Node
 node_modules/
