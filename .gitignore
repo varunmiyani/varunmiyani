@@ -8,8 +8,8 @@
 .vscode/
 .idea/
 
-# Personal
-todo/
+# Personal (todo/, career-research/, portfolio-research/ all live here)
+private/
 
 # Node
 node_modules/
